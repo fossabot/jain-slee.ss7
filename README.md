@@ -1,4 +1,6 @@
 # RestComm JAIN SLEE SS7 Resource Adaptors
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjain-slee.ss7.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjain-slee.ss7?ref=badge_shield)
+
 Repository containing the jSS7 Resource Adaptors for JAIN SLEE
 
 ## Introduction
@@ -18,6 +20,9 @@ jSS7 is lead by [TeleStax, Inc.](http://www.telestax.com/) and developed collabo
 ## License
 
 RestComm jSS7 is licensed under dual license policy. The default license is the Free Open Source [GNU Affero GPL v3.0](http://www.gnu.org/licenses/agpl-3.0.html). Alternatively a commercial license can be obtained from Telestax ([contact form](http://www.telestax.com/contactus/#InquiryForm))
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjain-slee.ss7.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fjain-slee.ss7?ref=badge_large)
 
 ## Downloads
 
